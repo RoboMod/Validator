@@ -1,0 +1,44 @@
+/* 
+    Document   : validator
+    Created on : 13.10.2013, 14:42:26
+    Author     : andreas
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    display: inline-block;
+    background-color: black;
+    height: 130px;
+    width: 100%;
+    text-align: center;
+}
+
+#slogan-positioner {
+    display: inline-block;
+    height: 100px;
+}
+
+#slogan {
+    display: inline-block;
+    color: lemonchiffon;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    width: 600px;
+    text-align: left;
+    vertical-align: bottom;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
